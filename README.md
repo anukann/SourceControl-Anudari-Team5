@@ -1,5 +1,5 @@
 # Git Basics Assignment
-
+My name is Anudari Batsaikhan and this is assignment #3.
 1. Create a new folder named CSC3220_T[5].
 2. Change to the new folder and initialize it as a repository.
 2. Copy this file "README.md" into the folder.
